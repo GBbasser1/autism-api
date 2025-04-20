@@ -1,6 +1,7 @@
 flask==2.3.2
-requests==2.31.0
-opencv-python==4.7.0.72
+gunicorn
+opencv-python
 ultralytics==8.0.120
 torch==2.0.1
-numpy==1.24.3
+numpy
+requests
